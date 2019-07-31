@@ -1,0 +1,14 @@
+name = Organic Group Facets
+description = "Provides a facet for organic groups."
+core = 6.x
+dependencies[] = faceted_search
+dependencies[] = search
+dependencies[] = og
+package = Faceted Search
+
+; Information added 2019-07-31
+version = "6.x-1.x-dev2"
+core = "6.x"
+project = "og_facets"
+datestamp = "1564563399"
+
